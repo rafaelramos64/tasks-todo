@@ -1,10 +1,15 @@
-# Getting Started with Create React App
+# ToDo List
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A aplicação se trata de um web app de gerenciamento de tarefas (ToDo List) Este foi a minha primeira aplicação utilizando Reactjs.
+A aplicação conta com um servidor/api improvisado para fazer as operações de CRUD de um ToDo App. Para funcionar, vc deve executar tanto o front como a api.
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm run server`
+Runs the api in to do CRUD operations.\
+Open [http://localhost:5000](http://localhost:5000) to view the todos array list in your browser.
 
 ### `npm start`
 
