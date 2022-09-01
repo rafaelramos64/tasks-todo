@@ -1,11 +1,13 @@
 # ToDo List
 
 A aplicação se trata de um web app de gerenciamento de tarefas (ToDo List) Este foi a minha primeira aplicação utilizando Reactjs.
-A aplicação conta com um servidor/api improvisado para fazer as operações de CRUD de um ToDo App. Para funcionar, vc deve executar tanto o front como a api.
+A aplicação conta com um servidor/api improvisado para fazer as operações de CRUD de um ToDo App. Para funcionar, vc deve executar tanto o front como a api, após a instalação de dependências.
 
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm install`
+Install All depencencies to run this project.
 
 ### `npm run server`
 Runs the api in to do CRUD operations.\
